@@ -1,0 +1,15 @@
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/bin/Debug/net6.0/dotnet-console
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/bin/Debug/net6.0/dotnet-console.deps.json
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/bin/Debug/net6.0/dotnet-console.runtimeconfig.json
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/bin/Debug/net6.0/dotnet-console.dll
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/bin/Debug/net6.0/dotnet-console.pdb
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/dotnet-console.csproj.AssemblyReference.cache
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/dotnet-console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/dotnet-console.AssemblyInfoInputs.cache
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/dotnet-console.AssemblyInfo.cs
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/dotnet-console.csproj.CoreCompileInputs.cache
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/dotnet-console.dll
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/refint/dotnet-console.dll
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/dotnet-console.pdb
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/dotnet-console.genruntimeconfig.cache
+/Users/pam.pandey/bocacode/dotnet/dotnet-console/obj/Debug/net6.0/ref/dotnet-console.dll
